@@ -6,3 +6,11 @@
 # Weather Website through API with user location tracking
 * tracks users location
 * Could maintain a database with user's visited locations whether that's cloud based or not
+
+# Library Database Management System with SQL/Cloud database component.
+* Tables on:
+  - Books
+  - Customers Loyalty/Rewards
+  - Employee Information
+  - Recent Purchases customers have made
+  * Perform joins to view which employees are rewards members.
