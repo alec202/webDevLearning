@@ -1,7 +1,7 @@
 The website I intend on designing will be the library database one
 ==================================================================
 
-# Library Database Management System with SQL/Cloud database component.
+# Library Database Management System with a SQL/Cloud database component.
 * Tables on:
   - Books
   - Customers Loyalty/Rewards
