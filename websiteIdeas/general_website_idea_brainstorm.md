@@ -1,7 +1,7 @@
 
 # To Do List Website #
 * Login screen with cloud component to maintain to do list data.
-- Maintain completed items in cloud
+  - Maintain completed items in cloud
 * On item completion add celebration animation
 
 # Weather Website through API with user location tracking
