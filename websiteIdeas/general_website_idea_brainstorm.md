@@ -14,5 +14,5 @@
   - Customers Loyalty/Rewards
   - Employee Information
   - Purchases/Receipts table 
-  * Perform joins to view which employees are rewards members.
-  * Perform joins based off customer unique ID with purchases/receipts table to view their recent purchases.
+* Perform joins to view which employees are rewards members.
+* Perform joins based off customer unique ID with purchases/receipts table to view their recent purchases.
