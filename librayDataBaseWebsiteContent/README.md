@@ -2,7 +2,7 @@ Library Database Management System with a SQL/Cloud database component.
 =======================================================================
 
 
-***I am in the beginning stages of learning web development. Once I gain a better grasp on web dev tools and begin actually brainstorming/creating this website(s) further, the tables attributes will become more specific, as will the features of this website. This readme will also become better structured and more thorough.***
+***I am in the beginning stages of learning web development. Once I gain a better grasp on web dev tools and begin actually brainstorming/creating this website(s) further, the tables attributes will become more specific as will the features of this website. This readme will also become better structured and more thorough.***
 
 # Tables on: #
   - Books
