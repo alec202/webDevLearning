@@ -1,7 +1,10 @@
-const myHeading = document.querySelector("h1");
-myHeading.textContent = "Hello dsfsf!";
+const myImage = document.querySelector("img");
 
-document.querySelector("html").addEventListener("click", function () {
-    alert("Ouch! Stop poking me!");
-  });
-  
+myImage.onclick = () => {
+  const mySrc = myImage.getAttribute("src");
+  if (mySrc === "images/library-three-pane-window.jpeg") {
+    myImage.setAttribute("src", "images/lots-of-shelves-library.jpeg");
+  } else {
+    myImage.setAttribute("src", "images/library-three-pane-window.jpeg");
+  }
+};
